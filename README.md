@@ -109,7 +109,7 @@ sudo dnf install qt6-qtbase tesseract leptonica spectacle
 #### 3. Build the project:
 
 ```bash
-git clone https://github.com/funinkina/spectacle-ocr-screenshot
+git clone https://github.com/nyomen/spectacle-ocr-screenshot-fixed
 qmake6 simple.pro
 make
 ```
