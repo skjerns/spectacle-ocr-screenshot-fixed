@@ -85,8 +85,8 @@ Tesseract OCR supports many languages. Some common language codes:
 #### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/spectacle-ocr-screenshot.git
-cd spectacle-ocr-screenshot
+git clone https://github.com/nyomen/spectacle-ocr-screenshot-fixed
+cd spectacle-ocr-screenshot-fixed
 ```
 
 #### 2. Install build dependencies:
